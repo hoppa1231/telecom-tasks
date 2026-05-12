@@ -1,2 +1,4 @@
 ThinkDSP/
 __pycache__
+*.md
+*.txt
